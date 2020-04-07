@@ -1,0 +1,34 @@
+Hymns
+Form: Call to Praise Yahweh, then Praise of Nature/Rule of God (and rarely, supplication)
+Themes:
+Praise (of course)
+Laments – Individual or Communal
+Form: Invocation, Lamentation, Supplication, Motivation, Vow (to do if Prayer is answered)
+Themes: Judgment, Calamity, Supplication, Penitence, Saving Mercy of God
+Thanksgiving
+In between Hymn and Lament
+Themes: Similar to above, but focusing more on personal stories
+May be integrated into a lament
+
+
+
+## Initial analysis of topical extraction
+
+Our 14 topics yields a topic coherence of 0.289. By the way, the word 'u' likely refers to 'us' - 'us' gets lemmatised into u.
+
+With low topic coherence scores, it is hard to see immediately what the topics are about. I think that they are not distinct and have high overlap is part of the point and takeaway here. Will try anyway:
+
+1. "Forever", "Loving", "Kindness", "Endures" - probably about attributes of God - the next weighted terms are about the resultant actions of these attributes
+2. "let, "earth", "heart", "hand" - the resultant actions of these attributes - similar to the next most weighted terms in topic 1
+3. "praise", "soul", "people", "us", "sing" - suggests the people's reactions to God. This is confounded by "let" and "word" which are God-based terms (word is mixed), but this makes sense - the impression is that the people can't do anything unless God lets them
+4. "wicked", hand", "loving"... - Also actions of God, based on 'hand'. Wicked refers to the enemies, which are punished by God's hand, but the hand also is loving for the not wicked.
+5. 'us', 'praise', 'name', 'people' - presumably, the people praising the name of God. The rest of the terms seem to line up with this - matter of who, when, and why they are praising.
+6. Again more of God's actions in 'let', but most of the other relevant terms suggests human action - song, praise, give, Israel. Again suggests that human action is possible through God's 'letting' it happen
+7. Human action, but now probably more Royal - 'David', 'house', 'Israel'
+8. Again the actions of the people
+9. All over the place, seems to have attributes of all the previous topics
+10. Similar to topic 6, but with more of the attributes of God that the people are praising.
+11. Seems to have more higher-ranked terms with the focus on restoration - "day", "come", "glory". Otherwise, still mostly people praise
+12. ???
+13. Seems similar to topic 5.
+14. ???
